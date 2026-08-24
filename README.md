@@ -12,7 +12,7 @@ Este desarrollo elimina la carga de trabajo manual y reduce el error humano en e
 
 ## 🛠️ Stack Técnico
 * **Lenguaje:** Python 3.x
-* **Librerías:** `pandas`, `openpyxl`, `xml.etree.ElementTree`
+* **Librerías:** `openpyxl`, `xml.etree.ElementTree`
 
 ## 📋 Requisitos Previos
 Tener instalado Python 3.8+ en el sistema.
